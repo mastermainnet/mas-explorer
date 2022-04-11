@@ -4,16 +4,16 @@
 
 ## ENV variables
 
-export COIN=MAS
-export ETHEREUM_JSONRPC_VARIANT=geth
-export ETHEREUM_JSONRPC_HTTP_URL=http://{{node}}:8545
-export ETHEREUM_JSONRPC_WS_URL=ws://{{node}}:8546
-export CHAIN_ID=220315
-export SUBNETWORK=MasNet
-export NETWORK=Ethereum
-export LOGO=/images/masnet_logo.svg
-export BLOCK_TRANSFORMER=clique
-
+export COIN=MAS<br>
+export ETHEREUM_JSONRPC_VARIANT=geth<br>
+export ETHEREUM_JSONRPC_HTTP_URL=http://{{node}}:8545<br>
+export ETHEREUM_JSONRPC_WS_URL=ws://{{node}}:8546<br>
+export CHAIN_ID=220315<br>
+export SUBNETWORK=MasNet<br>
+export NETWORK=Ethereum<br>
+export LOGO=/images/masnet_logo.svg<br>
+export BLOCK_TRANSFORMER=clique<br>
+<p>
 
 
 <h1 align="center">BlockScout</h1>
