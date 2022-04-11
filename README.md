@@ -1,3 +1,21 @@
+
+<h1 align="center">Masnet Explorer</h1>
+<p align="center">Masnet Explorer for Poa Mas Network Chains.</p>
+
+## ENV variables
+
+export COIN=MAS
+export ETHEREUM_JSONRPC_VARIANT=geth
+export ETHEREUM_JSONRPC_HTTP_URL=http://{{node}}:8545
+export ETHEREUM_JSONRPC_WS_URL=ws://{{node}}:8546
+export CHAIN_ID=220315
+export SUBNETWORK=MasNet
+export NETWORK=Ethereum
+export LOGO=/images/masnet_logo.svg
+export BLOCK_TRANSFORMER=clique
+
+
+
 <h1 align="center">BlockScout</h1>
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
