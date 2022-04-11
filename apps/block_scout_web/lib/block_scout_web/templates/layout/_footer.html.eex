@@ -1,0 +1,5 @@
+<footer class="footer">
+  <div class="footer-body container">
+    <span class="mt-25">COPYRIGHT &copy; 2022<a class="ms-25" href="#none" target="_blank">Masnet Block explorer</a><span class="d-none d-sm-inline-block">, All rights Reserved</span></span>
+  </div>
+</footer>
